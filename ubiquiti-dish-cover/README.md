@@ -12,3 +12,6 @@ Manufacturing: 3D printing
 
 ## Status
 BETA - Fits, but tabs are slightly misplaced
+
+## Beta
+[![Alt text](dome_cover_beta_print.jpg "Beta print")](dome_cover_beta_print.jpg)
